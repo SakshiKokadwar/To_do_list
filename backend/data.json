@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "_id": "s6mwrp0uu",
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "$2b$10$yFI5o9K6vRJUYndz3KHU.OSA9EGs0hG6.KJzR7qfwJAA8KJrgo/by",
+      "xp": 10,
+      "level": 1,
+      "streak": 0,
+      "createdAt": "2026-05-16T14:45:59.379Z"
+    },
+    {
+      "_id": "ckblzn457",
+      "name": "Digvijay",
+      "email": "digvijay28patil@gmail.com",
+      "password": "$2b$10$CZdFrKxqa0hvw9UD8ML5uuOXG0VrTgivF/WYuJrX0XrgbDgN5TX8u",
+      "xp": 25,
+      "level": 1,
+      "streak": 0,
+      "createdAt": "2026-05-16T15:22:12.187Z"
+    }
+  ],
+  "tasks": [
+    {
+      "_id": "5zxb38x6h",
+      "title": "Final QA Verification",
+      "userId": "s6mwrp0uu",
+      "xpReward": 10,
+      "status": "completed",
+      "createdAt": "2026-05-16T14:50:17.276Z"
+    },
+    {
+      "_id": "tdnsi9ufi",
+      "title": "Learn Python Module",
+      "userId": "ckblzn457",
+      "xpReward": 10,
+      "status": "completed",
+      "createdAt": "2026-05-16T15:22:26.948Z"
+    },
+    {
+      "_id": "t1jzkmlrw",
+      "title": "Do breakfst",
+      "userId": "ckblzn457",
+      "xpReward": 10,
+      "status": "completed",
+      "createdAt": "2026-05-16T15:24:35.197Z"
+    }
+  ],
+  "habits": [
+    {
+      "_id": "z6sosl1jk",
+      "name": "Cycling",
+      "color": "#7c3aed",
+      "userId": "ckblzn457",
+      "streak": 1,
+      "completedDates": [
+        "2026-05-16T15:23:59.495Z"
+      ],
+      "createdAt": "2026-05-16T15:23:56.720Z"
+    }
+  ],
+  "moods": []
+}
